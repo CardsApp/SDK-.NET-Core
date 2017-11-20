@@ -1,0 +1,12 @@
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\bin\x86\Release\netcoreapp2.0\CSharp Core Demo.deps.json
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\bin\x86\Release\netcoreapp2.0\CSharp Core Demo.runtimeconfig.json
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\bin\x86\Release\netcoreapp2.0\CSharp Core Demo.runtimeconfig.dev.json
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\bin\x86\Release\netcoreapp2.0\CSharp Core Demo.dll
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\bin\x86\Release\netcoreapp2.0\CSharp Core Demo.pdb
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\bin\x86\Release\netcoreapp2.0\Cards.dll
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\obj\x86\Release\netcoreapp2.0\CSharp Core Demo.csprojResolveAssemblyReference.cache
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\obj\x86\Release\netcoreapp2.0\CSharp Core Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\obj\x86\Release\netcoreapp2.0\CSharp Core Demo.AssemblyInfoInputs.cache
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\obj\x86\Release\netcoreapp2.0\CSharp Core Demo.AssemblyInfo.cs
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\obj\x86\Release\netcoreapp2.0\CSharp Core Demo.dll
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\temp\.NET Core\CardsSDK\CSharp Core Demo\obj\x86\Release\netcoreapp2.0\CSharp Core Demo.pdb

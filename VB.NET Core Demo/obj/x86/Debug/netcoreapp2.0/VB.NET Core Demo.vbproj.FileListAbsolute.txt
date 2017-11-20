@@ -1,0 +1,11 @@
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\obj\x86\Debug\netcoreapp2.0\VB.NET Core Demo.vbprojResolveAssemblyReference.cache
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\obj\x86\Debug\netcoreapp2.0\VB.NET Core Demo.vbproj.CoreCompileInputs.cache
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\obj\x86\Debug\netcoreapp2.0\VB.NET Core Demo.AssemblyInfoInputs.cache
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\obj\x86\Debug\netcoreapp2.0\VB.NET Core Demo.AssemblyInfo.vb
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\bin\x86\Debug\netcoreapp2.0\VB.NET Core Demo.deps.json
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\bin\x86\Debug\netcoreapp2.0\VB.NET Core Demo.runtimeconfig.json
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\bin\x86\Debug\netcoreapp2.0\VB.NET Core Demo.runtimeconfig.dev.json
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\bin\x86\Debug\netcoreapp2.0\VB.NET Core Demo.dll
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\bin\x86\Debug\netcoreapp2.0\VB.NET Core Demo.pdb
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\obj\x86\Debug\netcoreapp2.0\VB.NET Core Demo.dll
+C:\Users\Ido\Documents\Visual Studio 2017\Projects\Finalized\.NET Core\External\VB.NET Core Demo\obj\x86\Debug\netcoreapp2.0\VB.NET Core Demo.pdb
